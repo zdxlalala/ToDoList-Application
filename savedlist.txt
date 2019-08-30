@@ -1,0 +1,6 @@
+breakfast : (Regular) : 2018-11-23 : Completed
+lunch : (Regular) : 2018-11-23 : Completed
+dinner : (Regular) : 2018-11-23 : Completed
+eat : (Regular) : 2018-11-22 : Completed
+sleep : (Regular) : 2018-11-22 : Completed
+github : (Regular) : 2019-09-01 : In progress
